@@ -1,0 +1,17 @@
+{
+  "name": "otc-docs-language",
+  "version": "1.0.0",
+  "description": "dependency confusion test",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jHoldroyd/otc-docs-language.git"
+  },
+  "author": "Jamie Holdroyd <jholdroyd@otcxtrading.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jHoldroyd/otc-docs-language/issues"
+  },
+  "homepage": "https://github.com/jHoldroyd/otc-docs-language#readme"
+}
